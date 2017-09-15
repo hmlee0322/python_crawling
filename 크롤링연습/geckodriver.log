@@ -1,0 +1,220 @@
+1505361481846	geckodriver	INFO	geckodriver 0.18.0
+1505361482342	geckodriver	INFO	Listening on 127.0.0.1:62367
+1505361484082	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505361487827	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505361493176	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+1505361509462	Marionette	INFO	Listening on port 62377
+1505361509586	Marionette	INFO	Listening on port 62377
+1505361509924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505361510058	Marionette	DEBUG	loaded listener.js
+1505364505027	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505364506262	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505364506262	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505364513304	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505364513408	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1505364515117	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505364522464	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/ads/user-lists/987626218/?random=1505364509021&cv=8&fst=1505361600000&num=1&fmt=1&label=t4pECMKlkWMQ6vX31gM&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=1&u_tz=540&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51&tiba=%EC%A0%95%EA%B4%80%EC%9E%A5%EB%AA%B0&cdct=2&is_vtc=1&random=66485901&ipr=y&ulfeg=n"
+1505364522467	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/987626218/?random=1505364509021&cv=8&fst=1505361600000&num=1&fmt=1&label=t4pECMKlkWMQ6vX31gM&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=1&u_tz=540&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51&tiba=%EC%A0%95%EA%B4%80%EC%9E%A5%EB%AA%B0&cdct=2&is_vtc=1&random=66485901&ipr=y&ulfeg=n"
+1505364522607	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505364655185	Marionette	DEBUG	Received DOM event "hashchange" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505364750196	Marionette	DEBUG	Received DOM event "hashchange" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505364953138	Marionette	DEBUG	Received DOM event "hashchange" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505365014313	Marionette	DEBUG	Received DOM event "hashchange" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505365033865	Marionette	DEBUG	Received DOM event "hashchange" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505365055883	Marionette	DEBUG	Received DOM event "hashchange" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+[GPU 12284] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4728] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505365284433	geckodriver	INFO	geckodriver 0.18.0
+1505365284596	geckodriver	INFO	Listening on 127.0.0.1:53364
+1505365286181	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505365291179	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505365292787	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+[Child 6932] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6932] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505365305085	Marionette	INFO	Listening on port 53372
+1505365305623	Marionette	INFO	Listening on port 53372
+1505365306201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505365306341	Marionette	DEBUG	loaded listener.js
+1505365307723	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505365308218	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505365308219	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505365310890	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://astg.widerplanet.com/delivery/wpc.php?v=1&ver=4.0&r=1&ty=Home&ti=31413&device=web&charset=UTF-8&tc=1505365310119&loc=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51%23page1"
+1505365311126	Marionette	DEBUG	Received DOM event "pageshow" for "https://astg.widerplanet.com/delivery/wpc.php?v=1&ver=4.0&r=1&ty=Home&ti=31413&device=web&charset=UTF-8&tc=1505365310119&loc=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51%23page1"
+1505365311128	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1505365311766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505365316616	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/ads/user-lists/987626218/?random=1505365309354&cv=8&fst=1505365200000&num=1&fmt=1&label=t4pECMKlkWMQ6vX31gM&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=1&u_tz=540&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51&tiba=%EC%A0%95%EA%B4%80%EC%9E%A5%EB%AA%B0&cdct=2&is_vtc=1&random=2660509500&ipr=y&ulfeg=n"
+1505365316623	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/987626218/?random=1505365309354&cv=8&fst=1505365200000&num=1&fmt=1&label=t4pECMKlkWMQ6vX31gM&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=1&u_tz=540&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51&tiba=%EC%A0%95%EA%B4%80%EC%9E%A5%EB%AA%B0&cdct=2&is_vtc=1&random=2660509500&ipr=y&ulfeg=n"
+1505365317028	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505365393626	Marionette	DEBUG	Received DOM event "hashchange" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505365409877	Marionette	DEBUG	Received DOM event "hashchange" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+[GPU 6012] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17240] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505366223308	geckodriver	INFO	geckodriver 0.18.0
+1505366223478	geckodriver	INFO	Listening on 127.0.0.1:55041
+1505366225134	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505366226211	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505366227322	Marionette	INFO	Enabled via --marionette
+[GPU 13116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15732] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15732] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505366233255	Marionette	INFO	Listening on port 55049
+1505366233279	Marionette	INFO	Listening on port 55049
+1505366233511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505366233576	Marionette	DEBUG	loaded listener.js
+1505366233771	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505366234527	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505366234527	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505366239267	Marionette	DEBUG	Received DOM event "pageshow" for "https://astg.widerplanet.com/delivery/wpc.php?v=1&ver=4.0&r=1&ty=Home&ti=31413&device=web&charset=UTF-8&tc=1505366238135&loc=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51%23page1"
+1505366239591	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1505366240036	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505366246000	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/ads/user-lists/987626218/?random=1505366237871&cv=8&fst=1505365200000&num=1&fmt=1&label=t4pECMKlkWMQ6vX31gM&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=1&u_tz=540&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51&tiba=%EC%A0%95%EA%B4%80%EC%9E%A5%EB%AA%B0&cdct=2&is_vtc=1&random=1756853548&ipr=y&ulfeg=n"
+1505366246011	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/987626218/?random=1505366237871&cv=8&fst=1505365200000&num=1&fmt=1&label=t4pECMKlkWMQ6vX31gM&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=1&u_tz=540&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51&tiba=%EC%A0%95%EA%B4%80%EC%9E%A5%EB%AA%B0&cdct=2&is_vtc=1&random=1756853548&ipr=y&ulfeg=n"
+1505366246498	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+[GPU 13116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14020] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14020] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1505366451800	geckodriver	INFO	geckodriver 0.18.0
+1505366452045	geckodriver	INFO	Listening on 127.0.0.1:55510
+1505366453879	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505366454758	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505366456101	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+[Child 16472] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505366461067	Marionette	INFO	Listening on port 55522
+1505366461104	Marionette	INFO	Listening on port 55522
+1505366461606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505366461701	Marionette	DEBUG	loaded listener.js
+1505366461772	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505366461952	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505366461953	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505366464440	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505366464488	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505366464522	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1505366472465	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/ads/user-lists/987626218/?random=1505366463038&cv=8&fst=1505365200000&num=1&fmt=1&label=t4pECMKlkWMQ6vX31gM&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=1&u_tz=540&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51&tiba=%EC%A0%95%EA%B4%80%EC%9E%A5%EB%AA%B0&cdct=2&is_vtc=1&random=2458445498&ipr=y&ulfeg=n"
+1505366472470	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/987626218/?random=1505366463038&cv=8&fst=1505365200000&num=1&fmt=1&label=t4pECMKlkWMQ6vX31gM&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=1&u_tz=540&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51&tiba=%EC%A0%95%EA%B4%80%EC%9E%A5%EB%AA%B0&cdct=2&is_vtc=1&random=2458445498&ipr=y&ulfeg=n"
+1505366472766	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+[GPU 16700] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 16700] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505367389307	geckodriver	INFO	geckodriver 0.18.0
+1505367389478	geckodriver	INFO	Listening on 127.0.0.1:57295
+1505367391009	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505367392692	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505367394030	Marionette	INFO	Enabled via --marionette
+[Child 16284] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16284] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505367405377	Marionette	INFO	Listening on port 57307
+1505367405402	Marionette	INFO	Listening on port 57307
+1505367405826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505367405898	Marionette	DEBUG	loaded listener.js
+1505367405945	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505367406509	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505367406509	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505367411857	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505367411866	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1505367413049	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+[GPU 18328] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18140] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1505367434763	geckodriver	INFO	geckodriver 0.18.0
+1505367434937	geckodriver	INFO	Listening on 127.0.0.1:57459
+1505367436490	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505367437090	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505367438321	Marionette	INFO	Enabled via --marionette
+[Child 13116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505367444475	Marionette	INFO	Listening on port 57469
+1505367444504	Marionette	INFO	Listening on port 57469
+1505367444886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505367444972	Marionette	DEBUG	loaded listener.js
+1505367445245	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505367445397	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505367445398	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505367449682	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505367449711	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1505367450330	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505367450601	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/ads/user-lists/987626218/?random=1505367448474&cv=8&fst=1505365200000&num=1&fmt=1&label=t4pECMKlkWMQ6vX31gM&guid=ON&eid=376635470&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=1&u_tz=540&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51&tiba=%EC%A0%95%EA%B4%80%EC%9E%A5%EB%AA%B0&cdct=2&is_vtc=1&random=2370785317&ipr=y&ulfeg=n"
+1505367450608	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/987626218/?random=1505367448474&cv=8&fst=1505365200000&num=1&fmt=1&label=t4pECMKlkWMQ6vX31gM&guid=ON&eid=376635470&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=1&u_tz=540&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51&tiba=%EC%A0%95%EA%B4%80%EC%9E%A5%EB%AA%B0&cdct=2&is_vtc=1&random=2370785317&ipr=y&ulfeg=n"
+1505367455226	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+[Child 17472] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17472] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1505367642627	geckodriver	INFO	geckodriver 0.18.0
+1505367642771	geckodriver	INFO	Listening on 127.0.0.1:57919
+1505367644411	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505367645234	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505367646268	Marionette	INFO	Enabled via --marionette
+[Child 16000] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16000] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505367654613	Marionette	INFO	Listening on port 57929
+1505367654624	Marionette	INFO	Listening on port 57929
+1505367655103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505367655161	Marionette	DEBUG	loaded listener.js
+1505367655193	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505367655320	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505367655320	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505367659389	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://astg.widerplanet.com/delivery/wpc.php?v=1&ver=4.0&r=1&ty=Home&ti=31413&device=web&charset=UTF-8&tc=1505367658667&loc=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51%23page1"
+1505367659690	Marionette	DEBUG	Received DOM event "pageshow" for "https://astg.widerplanet.com/delivery/wpc.php?v=1&ver=4.0&r=1&ty=Home&ti=31413&device=web&charset=UTF-8&tc=1505367658667&loc=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51%23page1"
+1505367659713	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1505367661041	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505367661107	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/ads/user-lists/987626218/?random=1505367658422&cv=8&fst=1505365200000&num=1&fmt=1&label=t4pECMKlkWMQ6vX31gM&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=1&u_tz=540&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51&tiba=%EC%A0%95%EA%B4%80%EC%9E%A5%EB%AA%B0&cdct=2&is_vtc=1&random=1725159590&ipr=y&ulfeg=n"
+1505367661110	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/987626218/?random=1505367658422&cv=8&fst=1505365200000&num=1&fmt=1&label=t4pECMKlkWMQ6vX31gM&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=1&u_tz=540&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51&tiba=%EC%A0%95%EA%B4%80%EC%9E%A5%EB%AA%B0&cdct=2&is_vtc=1&random=1725159590&ipr=y&ulfeg=n"
+1505367665772	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+[GPU 16180] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16160] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16160] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505367687886	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+1505367695438	Marionette	INFO	Listening on port 58134
+1505367695450	Marionette	INFO	Listening on port 58134
+1505367695780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505367695910	Marionette	DEBUG	loaded listener.js
+1505367695989	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505367696362	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505367696363	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505367698474	Marionette	DEBUG	Received DOM event "pageshow" for "https://astg.widerplanet.com/delivery/wpc.php?v=1&ver=4.0&r=1&ty=Home&ti=31413&device=web&charset=UTF-8&tc=1505367697391&loc=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51%23page1"
+1505367698476	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1505367699160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505367705157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/ads/user-lists/987626218/?random=1505367697475&cv=8&fst=1505365200000&num=1&fmt=1&label=t4pECMKlkWMQ6vX31gM&guid=ON&eid=376635470&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=1&u_tz=540&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51&tiba=%EC%A0%95%EA%B4%80%EC%9E%A5%EB%AA%B0&cdct=2&is_vtc=1&random=742703451&ipr=y&ulfeg=n"
+1505367705161	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/987626218/?random=1505367697475&cv=8&fst=1505365200000&num=1&fmt=1&label=t4pECMKlkWMQ6vX31gM&guid=ON&eid=376635470&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=1&u_tz=540&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51&tiba=%EC%A0%95%EA%B4%80%EC%9E%A5%EB%AA%B0&cdct=2&is_vtc=1&random=742703451&ipr=y&ulfeg=n"
+1505367705460	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+[Child 18140] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18140] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1505367886636	geckodriver	INFO	geckodriver 0.18.0
+1505367886816	geckodriver	INFO	Listening on 127.0.0.1:58548
+1505367888451	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505367889423	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505367890664	Marionette	INFO	Enabled via --marionette
+[Child 16488] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16488] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505367895767	Marionette	INFO	Listening on port 58558
+1505367895790	Marionette	INFO	Listening on port 58558
+1505367895893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505367895960	Marionette	DEBUG	loaded listener.js
+1505367896061	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505367896192	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505367896192	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505367897957	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://astg.widerplanet.com/delivery/wpc.php?v=1&ver=4.0&r=1&ty=Home&ti=31413&device=web&charset=UTF-8&tc=1505367897194&loc=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51%23page1"
+1505367898298	Marionette	DEBUG	Received DOM event "pageshow" for "https://astg.widerplanet.com/delivery/wpc.php?v=1&ver=4.0&r=1&ty=Home&ti=31413&device=web&charset=UTF-8&tc=1505367897194&loc=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51%23page1"
+1505367898310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1505367899206	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+1505367904519	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.kr/ads/user-lists/987626218/?random=1505367897430&cv=8&fst=1505365200000&num=1&fmt=1&label=t4pECMKlkWMQ6vX31gM&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=1&u_tz=540&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51&tiba=%EC%A0%95%EA%B4%80%EC%9E%A5%EB%AA%B0&cdct=2&is_vtc=1&random=2350326881&ipr=y&ulfeg=n"
+1505367904523	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.kr/ads/user-lists/987626218/?random=1505367897430&cv=8&fst=1505365200000&num=1&fmt=1&label=t4pECMKlkWMQ6vX31gM&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=1&u_tz=540&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https%3A%2F%2Fwww.kgcshop.co.kr%2Fshop%2FgoodsList%3FctgryId%3D51&tiba=%EC%A0%95%EA%B4%80%EC%9E%A5%EB%AA%B0&cdct=2&is_vtc=1&random=2350326881&ipr=y&ulfeg=n"
+1505367904662	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.kgcshop.co.kr/shop/goodsList?ctgryId=51#page1"
+[Parent 6968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4144] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4144] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13844] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13844] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
